@@ -1,132 +1,144 @@
-==================================================================================================
+# 🌐 Soumya Upadhyay Portfolio
 
-DESCRIPTION:
+Welcome to my personal portfolio website. This portfolio showcases my skills, projects, experience, and academic journey as a Computer Science Engineering student.
 
-LUTHER is a modern, stylish, free personal website template designed for creative individuals 
-and professionals. It is the perfect template if you wish to build an online presence and create 
-a strong first impression on all your site visitors. Luther will help you craft a personal 
-professional website wherein you can showcase your works, talents, and present yourself on the 
-web in the best possible light. On top of that, the template is versatile and easy to customize 
-so with some modifications and a bit of creativity you even use it as a portfolio site for 
-digital studios or a landing page for your projects.
+## 🚀 Live Website
 
-==================================================================================================
+🔗 https://my-portfolio-gold-phi-97.vercel.app/
 
+## 👩‍💻 About Me
 
-LICENSE:
+Hello World!
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
+I am **Soumya Upadhyay**, a BTech Computer Science & Engineering student, Java Developer, and Problem Solver passionate about building practical and real-world technology solutions.
 
+My interests include:
 
-Rights:
--------
+* Java Development
+* Web Development
+* Full-Stack Development
+* REST APIs
+* Data Structures & Algorithms
+* Problem Solving
+* IoT-Based Solutions
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+## 🛠️ Skills
 
+### Programming Languages
 
-Prohibitions:
--------------
+* Java
+* JavaScript
+* HTML5
+* CSS3
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+### Web Development
 
+* React.js
+* Node.js
+* Express.js
+* MERN Stack
+* Frontend Development
+* REST APIs
 
-Attribution: 
-------------
+### Database & Tools
 
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
+* MongoDB
+* Git
+* GitHub
 
+### Core Concepts
 
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Problem Solving
 
-If you have any questions about the License, feel free to contact us.
+### Additional Skills
 
+* IoT-Based Projects
+* Project Development
+* Team Collaboration
 
------------------------------------------------------------------------------------------------------
+## 💼 Experience
 
+### Vice President
 
-REMOVING THE ATTRIBUTION LINK:
+**Society of Automation**
+*Aug 2025 – Present*
 
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
+Leading a technical student society by organizing workshops, events, and collaborative projects while managing teams and encouraging innovation-focused activities.
 
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
+### Smart Security Ring Project
 
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
+**IoT & Web Development**
+*2025*
 
+Contributed to the development of a smart safety ring capable of sending SOS alerts, sharing location data, and recording incidents. Worked on web development, system design, and project presentation. The project was officially published as a patent.
 
------------------------------------------------------------------------------------------------------- 
+## 🎓 Education
 
+### GLA University, Mathura
 
-SUPPORT:
-    
-Since LUTHER is distributed for free, support is not offered. LUTHER is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
+**BTech, Computer Science & Engineering**
+2023 – Present
 
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
+Focused on Data Structures, Web Development, Software Engineering, and real-world project development.
 
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
+### Vasantrao Dempo Higher Secondary School, Goa
 
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
+**Higher Secondary Education**
+2021 – 2023
 
+Completed higher secondary education with a focus on Physics, Chemistry, and Mathematics.
 
+## 📚 Featured Projects
 
------------------------------------------------------------------------------------------------------- 
+### Smart Expense Tracker
 
+A web application for managing and tracking daily expenses efficiently.
 
-GET THE LATEST VERSION:
+### Interview Preparation Platform
 
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
+A MERN Stack platform designed to help students prepare for technical interviews.
 
+### Snake Game
 
+A browser-based implementation of the classic Snake Game.
 
--------------------------------------------------------------------------------------------------------
+### Smart Security Ring
 
+An IoT-based safety solution integrated with web technologies for emergency assistance.
 
-SOURCES AND CREDITS:
+## 🌐 Connect With Me
 
-I've used the following resources as listed.
+Portfolio:
+https://my-portfolio-gold-phi-97.vercel.app/
 
-Fonts:
- - Public Sans Font (https://fonts.google.com/specimen/Public+Sans)
- - DM Serif Display (https://fonts.google.com/specimen/DM+Serif+Display)
+GitHub:
+https://github.com/SoumyaUpadhyay121
 
-Icons:
- - Iconmonstr (https://iconmonstr.com/)
+LinkedIn:
+https://www.linkedin.com/in/soumya-upadhyay-ba66a827b/
 
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - Anime.js (https://animejs.com/)
- - Swiper (https://swiperjs.com/)
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - Basic Lightbox (https://basiclightbox.electerious.com/)
- - MailtoUI (https://mailtoui.com/)
+LeetCode:
+https://leetcode.com/u/Soumya_Upadhyay/
 
--------------------------------------------------------------------------------------------------------
+## 📩 Contact
 
+Email:
+[soumyaupadhya121@gmail.com](mailto:soumyaupadhya121@gmail.com)
 
-Thanks for downloading from Styleshout :)
+## 🚀 Deployment
 
+This portfolio is deployed on Vercel.
 
+Any updates pushed to the GitHub repository are automatically deployed using Vercel's Continuous Deployment pipeline.
+
+```bash
+git add .
+git commit -m "Update portfolio"
+git push origin main
+```
+
+## ⭐ Thank You
+
+Thank you for visiting my portfolio. Feel free to connect with me for collaboration, opportunities, or discussions related to technology and software development.
